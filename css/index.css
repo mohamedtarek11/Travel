@@ -1,0 +1,171 @@
+nav button{
+    border-radius: 46%;
+    width: 77px;
+}
+.maintravel{
+
+    background-image: url("../images/lalo-hernandez-Amo081zdJsI-unsplash.png");
+    background-size: cover;
+    z-index: -2;
+ 
+}
+.black{
+   
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.384);
+    border-radius: 10px;
+    padding-top: 120px;
+    padding-bottom: 50px;
+    
+}
+    
+.maintravel .trav{
+color: #ffffff;
+}
+.maintravel .buttons{
+    width: 40%;
+    background-color: #ffffff;
+    margin: 20px auto;
+    z-index: 9999;
+
+}
+.buttons p{
+    color: black;
+}
+/* /////////////////////////////our price////////////////// */
+.mainourprice{
+ 
+    margin-top: 100px !important;
+    margin-bottom: 50px;
+    
+}
+
+/* /////////////////////recomend destination */
+.recom{
+   
+    text-align: center;
+    color: #000000;
+    margin: 25px 0px;
+}
+/* ///////////////after recommended///////////// */
+.afterrecom{
+
+    margin: 24px auto;
+}
+
+
+
+.lll{
+    width: 22px;
+    border-radius: 20%;
+    padding: 6px;
+    color: #ffffff;
+    background-color: #1C4961;
+}
+/* /////////////////////////blogs/////////////////// */
+.blogone{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.blog{
+  
+    margin-top: 50px;
+}
+
+.bolgguide{
+    
+    background-image:url("../images/NoPath.png");
+    background-size: cover;
+    padding-bottom: 70px;
+   
+}
+.bolgguide .guidetxt{
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 140px;
+
+
+}
+.blog .guidtop{
+    /* height: 191px; */
+    background-image: url("../images/eva-darron-oCdVtGFeDC0-unsplash.png");
+    background-size: cover;
+    border-radius: 30px;
+    color: #ffffff;
+    font-size: 23px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 45px;
+    padding-bottom: 42px;
+}
+
+.guidetxtbut{
+ 
+    background-image: url("../images/ibrahim-rifath-Y6tBl0pTe-g-unsplash.png");
+    background-size: cover;
+    background-position: bottom;
+    margin-top: 13px;
+    border-radius: 22px;
+}
+.txtbut{
+    color: #ffffff;
+    font-size: 23px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 45px;
+    padding-bottom: 42px;
+}
+/* ///////////////happy customer */
+.happy{
+    margin-top: 25px;
+    margin-bottom: 63px;
+}
+.happcust{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    color: #000000;
+    margin-top: 30px;
+}
+.mainflex{
+    display: flex;
+
+}
+.custtxt{
+    color: #000000;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.cust .img{
+   margin-right: 20px;
+
+}
+.mainflex2{
+    display: flex;
+}
+.mainflex2 .flextxt{
+    margin-left: 20px;
+    margin-top:13px;
+}
+/* //////////////////last section media///////// */
+.media{
+    /* height: 100px; */
+    background-color: #E1E8F8;
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+.uul li{
+   
+    display: inline-block;
+    margin-right: 30px;
+}
+.lastfont{
+    font-size: 27px;
+}
